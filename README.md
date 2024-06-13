@@ -19,7 +19,7 @@ To get started with MyToken (AbhiOp), you'll want to fire up Remix IDE. That's w
 
 ### Help
 
-If you encounter any issues or have questions about using the MyToken (AbhiOp) contract, refer to the documentation provided with your Ethereum development tools or seek assistance from the Ethereum developer community or you can directly reach out me for this token(SKJ) particularly using the below mentioned contact details.
+If you encounter any issues or have questions about using the MyToken (AbhiOp) contract, refer to the documentation provided with your Ethereum development tools or seek assistance from the Ethereum developer community or you can directly reach out me for this token(AbhiOp) particularly using the below mentioned contact details.
 
 ## Author
 
